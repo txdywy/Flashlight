@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="title_activity_light">LightActivity</string>
+    <string name="title_activity_screen_light">ScreenLightActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
 
-    <string name="app_name">手電筒</string>
+    <string name="app_name">閃電2017</string>
     <string name="color_mode">顏色方案</string>
     <string name="color_cancel">取消</string>
     <string name="setting_title">設定</string>
